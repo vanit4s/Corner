@@ -1,0 +1,8 @@
+<meta>
+	<info author="Szymon 'Niemcu' Hermann>" type="script" version="1.1.2" />
+	
+	<script src="cornerS.lua" type="server" />
+	<script src="cornerC.lua" type="client" />
+
+	<oop>true</oop>
+</meta>
